@@ -36,7 +36,7 @@ The goal of this project is to create an attractive user interface and smooth us
 
 1️⃣ Download or Clone the repository
 
-git clone https://github.com/yourusername/travel-with-us.git
+git clone https://github.com/RohitTamboli07/travel-with-us.git
 
 2️⃣ Open the folder
 
@@ -63,10 +63,5 @@ Through this project, I learned:
 ## 👨‍💻 Author
 
 Rohit Tamboli  
-GitHub: https://github.com/yourusername  
 
----
 
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
